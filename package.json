@@ -1,0 +1,22 @@
+{
+  "name": "livecodeunittestpart1",
+  "version": "1.0.0",
+  "description": "[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profcpmuniz/LiveCodeUnitTestPart1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profcpmuniz/LiveCodeUnitTestPart1/issues"
+  },
+  "homepage": "https://github.com/profcpmuniz/LiveCodeUnitTestPart1#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
